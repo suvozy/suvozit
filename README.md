@@ -9,7 +9,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 
 🙇🏼‍♂️ ⸱⸱⸱ 🤖
 
-Here are some ideas to get you started:
+**Here are some ideas to get you started:**
 
 - 🔭 I’m currently working on [Mudra](https://www.mudra.club)
 - 🌱 I’m currently learning AI, ML, Blockchain
@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@suvozit][twitter]
 - 😄 Pronouns: Bengali, Foodie, Snoozer
 - ⚡ Fun fact: I'm a Gemini ♊️
+
+---
 
 ### 🦉 Connect with me:
 
