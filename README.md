@@ -5,7 +5,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 🙇🏼‍♂️ ⸱⸱⸱ 🤖
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/suvozit)
-[![Linkedin: suvozit](https://img.shields.io/badge/-Shubhajit%20Saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suvozit/)](https://www.linkedin.com/in/suvozit/)
+[![Linkedin: suvozit](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suvozit/)](https://www.linkedin.com/in/suvozit/)
 
 ## Artist // Entrepreneur // Streamer
 
