@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Blockchian
 - 💬 Ask me about Anything
 - 📫 How to reach me: [@suvozit][twitter]
-- 😄 Pronouns: ... Bengali, Foodie, Snoozer
-- ⚡ Fun fact: ... Gemini ♊️
+- 😄 Pronouns: Bengali, Foodie, Snoozer
+- ⚡ Fun fact: I'm a Gemini ♊️
 
-### Connect with me:
+### 🦉 Connect with me:
 
 [<img align="left" alt="www.shubhajitsaha.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][website]
 [<img align="left" alt="suvozit | ACM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />][acm]
@@ -39,13 +39,26 @@ Here are some ideas to get you started:
 [<img align="left" alt="suvozit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
+<br />
 
 [<img align="left" alt="suvozit | Mixer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mixer.svg" />][mixer]
 [<img align="left" alt="suvozit | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 [<img align="left" alt="suvozit | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
-
 <br />
+
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [website]: https://www.shubhajitsaha.com
 [facebook]: https://www.facebook.com/suvozit
