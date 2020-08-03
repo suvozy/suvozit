@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="www.shubhajitsaha.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][website]
 [<img align="left" alt="suvozit | ACM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />][acm]
+[<img align="left" alt="suvozit | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="suvozit | Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][bitbucket]
+[<img align="left" alt="suvozit | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
+[<img align="left" alt="suvozit | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="suvozit | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="suvozit | Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][flickr]
 [<img align="left" alt="suvozit | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -63,14 +66,12 @@ Here are some ideas to get you started:
 
 ### 🙈 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Is this a memory leak in Guzzle middleware?](https://stackoverflow.com/questions/33155886/is-this-a-memory-leak-in-guzzle-middleware)
-- [Comment by suvozit on Memory leak: PHP guzzle/oauth-subscriber](https://stackoverflow.com/questions/33025963/memory-leak-php-guzzle-oauth-subscriber)
-- [Answer by suvozit for How to uniquely identify user logging in via oauth?](https://stackoverflow.com/questions/21145560/how-to-uniquely-identify-user-logging-in-via-oauth/33026038#33026038)
-- [Memory leak: PHP guzzle/oauth-subscriber](https://stackoverflow.com/questions/33025963/memory-leak-php-guzzle-oauth-subscriber)
-- [Answer by suvozit for Add extra header information in codeigniter email](https://stackoverflow.com/questions/9062192/add-extra-header-information-in-codeigniter-email/30558524#30558524)
 <!-- STACKOVERFLOW:END -->
 
 [website]: https://www.shubhajitsaha.com
+[behance]: https://www.behance.net/suvozit
+[blogger]: https://suvozit.blogspot.com
+[dribbble]: https://dribbble.com/suvozit
 [facebook]: https://www.facebook.com/suvozit
 [foursquare]: https://foursquare.com/suvozit
 [flickr]: https://www.flickr.com/photos/suvozit
