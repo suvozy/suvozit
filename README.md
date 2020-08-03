@@ -1,3 +1,5 @@
+![](IMG_2690.JPG)
+
 ### Hi there 👋 I 'm [Shubhajit Saha][website]
 
 A serial Entrepreneur with a strong passion for self-improvement. I have strong Problem-Solving skills & bring energy, patience, positivity and cultural values to the team. I also stream games on my YouTube Channel.
