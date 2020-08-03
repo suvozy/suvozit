@@ -89,7 +89,11 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="suvozit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suvozit&show_icons=true&hide_border=true" />
+![suvozit's Github Stats](https://github-readme-stats.vercel.app/api?username=suvozit&show_icons=true&hide_border=true&show_icons=true&theme=great-gatsby)
+
+![Latest stack overflow activity](https://github.com/suvozit/suvozit/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
+![Latest blog post workflow](https://github.com/suvozit/suvozit/workflows/Latest%20blog%20post%20workflow/badge.svg)
+
 
 [website]: https://www.shubhajitsaha.com
 [behance]: https://www.behance.net/suvozit
@@ -130,8 +134,3 @@ Here are some ideas to get you started:
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
----
-
-![Latest stack overflow activity](https://github.com/suvozit/suvozit/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
-![Latest blog post workflow](https://github.com/suvozit/suvozit/workflows/Latest%20blog%20post%20workflow/badge.svg)
