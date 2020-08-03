@@ -63,6 +63,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 <br />
 
 [<img align="left" alt="suvozit | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
+[<img align="left" alt="suvozit | YouTube Music" width="22px" src="https://simpleicons.org/icons/youtubemusic.svg" />][youtubemusic]
 [<img align="left" alt="suvozit | Mixer" width="22px" src="https://simpleicons.org/icons/mixer.svg" />][mixer]
 [<img align="left" alt="suvozit | Steam" width="22px" src="https://simpleicons.org/icons/steam.svg" />][steam]
 [<img align="left" alt="suvozit | Twitch" width="22px" src="https://simpleicons.org/icons/twitch.svg" />][twitch]
@@ -147,7 +148,6 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 [unsplash]: https://unsplash.com/@suvozit
 [vimeo]: https://vimeo.com/suvozit
 [wordpress]: https://suvozit.wordpress.com
-[youtube]: https://youtube.com/suvozit
 
 [acm]: https://dl.acm.org/profile/87959207857
 [bitbucket]: https://bitbucket.org/suvozit
@@ -158,6 +158,8 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 [stackoverflow]: https://stackoverflow.com/users/3466389/suvozit
 [topcoder]: https://www.topcoder.com/members/bitsits
 
+[youtube]: https://youtube.com/suvozit
+[youtubemusic]: https://music.youtube.com/channel/UCok9vHtB8qv7HIvEZuArGLA
 [mixer]: https://mixer.com/suvozit
 [omlet]: https://omlet.gg/stream/suvozit
 [steam]: https://steamcommunity.com/id/suvozit
