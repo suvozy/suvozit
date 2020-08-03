@@ -1,4 +1,4 @@
-### Hi there 👋 I 'm Shubhajit Saha [@suvozit][website]
+# Hi there 👋 I 'm [Shubhajit Saha][website]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/suvozit)
 [![Linkedin: suvozit](https://img.shields.io/badge/-Shubhajit%20Saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suvozit/)](https://www.linkedin.com/in/suvozit/)
@@ -57,6 +57,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="suvozit | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
+
+---
+
+### 📊 This week I spent my time on
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
