@@ -1,15 +1,8 @@
-# Hi there 👋 I 'm [Shubhajit Saha][website]
-
+### Hi there 👋 I 'm [Shubhajit Saha][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/suvozit)
 [![Linkedin: suvozit](https://img.shields.io/badge/-Shubhajit%20Saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suvozit/)](https://www.linkedin.com/in/suvozit/)
 
-Artist // Entrepreneur // Streamer
-
-A serial Entrepreneur with a strong passion for self-improvement. I have strong Problem-Solving skills & bring energy, patience, positivity and cultural values to the team. I also stream games on my YouTube Channel.
-
-🙇🏼‍♂️ ⸱⸱⸱ 🤖
-
-**Here are some ideas to get you started:**
+## Artist // Entrepreneur // Streamer
 
 - 🔭 I’m currently working on [Mudra](https://www.mudra.club)
 - 🌱 I’m currently learning AI, ML, Blockchain
@@ -19,6 +12,10 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 - 📫 How to reach me: [@suvozit][twitter]
 - 😄 Pronouns: Bengali, Foodie, Snoozer
 - ⚡ Fun fact: I'm a Gemini ♊️
+
+A serial Entrepreneur with a strong passion for self-improvement. I have strong Problem-Solving skills & bring energy, patience, positivity and cultural values to the team. I also stream games on my YouTube Channel.
+
+🙇🏼‍♂️ ⸱⸱⸱ 🤖
 
 ---
 
