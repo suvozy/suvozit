@@ -32,7 +32,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozit | Flickr" width="22px" src="https://simpleicons.org/icons/flickr.svg" />][flickr]
 [<img align="left" alt="suvozit | Foursquare" width="22px" src="https://simpleicons.org/icons/foursquare.svg" />][foursquare]
 <!-- https://github.com/simple-icons/simple-icons/issues/3414 -->
-<!-- [<img align="left" alt="suvozit | Giphy" width="22px" src="https://simpleicons.org/icons/giphy.svg" />][giphy] -->
+[<img align="left" alt="suvozit | Giphy" width="22px" src="https://simpleicons.org/icons/circle.svg" />][giphy]
 [<img align="left" alt="suvozit | Google" width="22px" src="https://simpleicons.org/icons/google.svg" />][google]
 [<img align="left" alt="suvozit | Gravatar" width="22px" src="https://simpleicons.org/icons/gravatar.svg" />][gravatar]
 [<img align="left" alt="suvozit | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
@@ -66,6 +66,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozit | Mixer" width="22px" src="https://simpleicons.org/icons/mixer.svg" />][mixer]
 [<img align="left" alt="suvozit | Steam" width="22px" src="https://simpleicons.org/icons/steam.svg" />][steam]
 [<img align="left" alt="suvozit | Twitch" width="22px" src="https://simpleicons.org/icons/twitch.svg" />][twitch]
+[<img align="left" alt="suvozit | Xbox" width="22px" src="https://simpleicons.org/icons/xbox.svg" />][xbox]
 
 <br />
 
@@ -123,6 +124,8 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 
 <br />
 
+[![](https://www.xboxgamertag.com/gamercard/bitsits/newnxe/card.png)][xbox]
+
 ![Latest YouTube Videos](https://github.com/suvozit/suvozit/workflows/Latest%20YouTube%20Videos/badge.svg)  
 ![Update stats](https://github.com/suvozit/suvozit/workflows/Update%20stats/badge.svg)  
 ![Latest stack overflow activity](https://github.com/suvozit/suvozit/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
@@ -159,6 +162,7 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 [omlet]: https://omlet.gg/stream/suvozit
 [steam]: https://steamcommunity.com/id/suvozit
 [twitch]: https://www.twitch.tv/suvozit
+[xbox]: http://live.xbox.com/Profile?Gamertag=bitsits
 
 [google]: https://plus.google.com/+ShubhajitSaha
 [gravatar]: https://en.gravatar.com/suvozit
