@@ -31,6 +31,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozit | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="suvozit | Flickr" width="22px" src="https://simpleicons.org/icons/flickr.svg" />][flickr]
 [<img align="left" alt="suvozit | Foursquare" width="22px" src="https://simpleicons.org/icons/foursquare.svg" />][foursquare]
+[<img align="left" alt="suvozit | Giphy" width="22px" src="https://simpleicons.org/icons/giphy.svg" />][giphy]
 [<img align="left" alt="suvozit | Google" width="22px" src="https://simpleicons.org/icons/google.svg" />][google]
 [<img align="left" alt="suvozit | Gravatar" width="22px" src="https://simpleicons.org/icons/gravatar.svg" />][gravatar]
 [<img align="left" alt="suvozit | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
@@ -132,7 +133,7 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 [facebook]: https://www.facebook.com/suvozit
 [foursquare]: https://foursquare.com/suvozit
 [flickr]: https://www.flickr.com/photos/suvozit
-[github]: https://github.com/suvozit
+[giphy]: https://giphy.com/channel/suvozit
 [instagram]: https://instagram.com/suvozit
 [linkedin]: https://linkedin.com/in/suvozit
 [medium]: https://medium.com/@suvozit
