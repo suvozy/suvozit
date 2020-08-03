@@ -26,42 +26,43 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 
 ### 🦉 Connect with me:
 
-[<img align="left" alt="www.shubhajitsaha.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][website]
+[<img align="left" alt="www.shubhajitsaha.com" width="22px" src="https://simpleicons.org/icons/rss.svg" />][website]
 
-[<img align="left" alt="suvozit | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="suvozit | Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][flickr]
-[<img align="left" alt="suvozit | Google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][google]
-[<img align="left" alt="suvozit | Gravatar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gravatar.svg" />][gravatar]
-[<img align="left" alt="suvozit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="suvozit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="suvozit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="suvozit | Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][tumblr]
-[<img align="left" alt="suvozit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="suvozit | Unsplash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unsplash.svg" />][unsplash]
-[<img align="left" alt="suvozit | Vimeo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vimeo.svg" />][vimeo]
-[<img align="left" alt="suvozit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vine.svg" />][vine]
-[<img align="left" alt="suvozit | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
-
-<br />
-<br />
-
-[<img align="left" alt="suvozit | ACM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />][acm]
-[<img align="left" alt="suvozit | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-[<img align="left" alt="suvozit | Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][bitbucket]
-[<img align="left" alt="suvozit | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev-dot-to]
-[<img align="left" alt="suvozit | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
-[<img align="left" alt="suvozit | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
-[<img align="left" alt="suvozit | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="suvozit | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="suvozit | TopCoder" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/topcoder.svg" />][topcoder]
+[<img align="left" alt="suvozit | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[<img align="left" alt="suvozit | Flickr" width="22px" src="https://simpleicons.org/icons/flickr.svg" />][flickr]
+[<img align="left" alt="suvozit | Foursquare" width="22px" src="https://simpleicons.org/icons/foursquare.svg" />][foursquare]
+[<img align="left" alt="suvozit | Google" width="22px" src="https://simpleicons.org/icons/google.svg" />][google]
+[<img align="left" alt="suvozit | Gravatar" width="22px" src="https://simpleicons.org/icons/gravatar.svg" />][gravatar]
+[<img align="left" alt="suvozit | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="suvozit | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suvozit | Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />][medium]
+[<img align="left" alt="suvozit | Tumblr" width="22px" src="https://simpleicons.org/icons/tumblr.svg" />][tumblr]
+[<img align="left" alt="suvozit | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="suvozit | Unsplash" width="22px" src="https://simpleicons.org/icons/unsplash.svg" />][unsplash]
+[<img align="left" alt="suvozit | Vimeo" width="22px" src="https://simpleicons.org/icons/vimeo.svg" />][vimeo]
+[<img align="left" alt="suvozit | YouTube" width="22px" src="https://simpleicons.org/icons/vine.svg" />][vine]
+[<img align="left" alt="suvozit | Wordpress" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />][wordpress]
 
 <br />
 <br />
 
-[<img align="left" alt="suvozit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="suvozit | Mixer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mixer.svg" />][mixer]
-[<img align="left" alt="suvozit | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="suvozit | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+[<img align="left" alt="suvozit | ACM" width="22px" src="https://simpleicons.org/icons/acm.svg" />][acm]
+[<img align="left" alt="suvozit | Behance" width="22px" src="https://simpleicons.org/icons/behance.svg" />][behance]
+[<img align="left" alt="suvozit | Bitbucket" width="22px" src="https://simpleicons.org/icons/bitbucket.svg" />][bitbucket]
+[<img align="left" alt="suvozit | Dev.to" width="22px" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev-dot-to]
+[<img align="left" alt="suvozit | Blogger" width="22px" src="https://simpleicons.org/icons/blogger.svg" />][blogger]
+[<img align="left" alt="suvozit | Dribbble" width="22px" src="https://simpleicons.org/icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="suvozit | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />][github]
+[<img align="left" alt="suvozit | StackOverflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="suvozit | TopCoder" width="22px" src="https://simpleicons.org/icons/topcoder.svg" />][topcoder]
+
+<br />
+<br />
+
+[<img align="left" alt="suvozit | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
+[<img align="left" alt="suvozit | Mixer" width="22px" src="https://simpleicons.org/icons/mixer.svg" />][mixer]
+[<img align="left" alt="suvozit | Steam" width="22px" src="https://simpleicons.org/icons/steam.svg" />][steam]
+[<img align="left" alt="suvozit | Twitch" width="22px" src="https://simpleicons.org/icons/twitch.svg" />][twitch]
 
 <br />
 
