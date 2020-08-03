@@ -70,6 +70,11 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Hizz Shot plays PUBG MOBILE - 2nd Anniversary: 2gether We Play #iOS](https://www.youtube.com/watch?v=_BEy5_7lNOo)
+- [Hizz Shot plays PUBG MOBILE - 2nd Anniversary: 2gether We Play #iOS](https://www.youtube.com/watch?v=9H_lx4TuCfc)
+- [Watch me play PUBG MOBILE via Stream Labs!](https://www.youtube.com/watch?v=Jz__lNgcSXQ)
+- [Watch me play PUBG MOBILE via Stream Labs!](https://www.youtube.com/watch?v=JpN-qZdNSF8)
+- [Watch me play PUBG MOBILE via Stream Labs!](https://www.youtube.com/watch?v=9CT1SyBuaHo)
 <!-- YOUTUBE:END -->
 
 ---
