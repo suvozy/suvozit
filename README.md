@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="www.shubhajitsaha.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.shubhajitsaha.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][website]
 [<img align="left" alt="suvozit | ACM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />][acm]
 [<img align="left" alt="suvozit | Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][bitbucket]
 [<img align="left" alt="suvozit | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
