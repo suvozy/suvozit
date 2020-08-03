@@ -55,6 +55,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozit | Blogger" width="22px" src="https://simpleicons.org/icons/blogger.svg" />][blogger]
 [<img align="left" alt="suvozit | Dribbble" width="22px" src="https://simpleicons.org/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="suvozit | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />][github]
+[<img align="left" alt="suvozit | Keybase" width="22px" src="https://simpleicons.org/icons/keybase.svg" />][keybase]
 [<img align="left" alt="suvozit | StackOverflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="suvozit | TopCoder" width="22px" src="https://simpleicons.org/icons/topcoder.svg" />][topcoder]
 
@@ -150,6 +151,7 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 [dev-dot-to]: http://dev.to/suvozit
 [github]: https://github.com/suvozit
 [spoj]: https://www.spoj.com/users/my_zit
+[keybase]: https://keybase.io/suvozit
 [stackoverflow]: https://stackoverflow.com/users/3466389/suvozit
 [topcoder]: https://www.topcoder.com/members/bitsits
 
