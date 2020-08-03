@@ -81,6 +81,10 @@ Here are some ideas to get you started:
 - [Answer by suvozit for Add extra header information in codeigniter email](https://stackoverflow.com/questions/9062192/add-extra-header-information-in-codeigniter-email/30558524#30558524)
 <!-- STACKOVERFLOW:END -->
 
+---
+
+<img align="left" alt="suvozit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suvozit&show_icons=true&hide_border=true" />
+
 [website]: https://www.shubhajitsaha.com
 [behance]: https://www.behance.net/suvozit
 [blogger]: https://suvozit.blogspot.com
