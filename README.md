@@ -4,7 +4,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 
 🙇🏼‍♂️ ⸱⸱⸱ 🤖
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/suvozit)
+[![Twitter Follow](https://img.shields.io/twitter/follow/suvozit?label=Follow)](https://twitter.com/suvozit)
 [![Linkedin: suvozit](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suvozit/)](https://www.linkedin.com/in/suvozit/)
 
 ## Artist // Entrepreneur // Streamer
@@ -104,11 +104,10 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 
 ![suvozit's Github Stats](https://github-readme-stats.vercel.app/api?username=suvozit&show_icons=true&hide_border=true&show_icons=true&theme=great-gatsby)
 
-![Latest YouTube Videos](https://github.com/suvozit/suvozit/workflows/Latest%20YouTube%20Videos/badge.svg)
-![Update stats](https://github.com/suvozit/suvozit/workflows/Update%20stats/badge.svg)
+![Latest YouTube Videos](https://github.com/suvozit/suvozit/workflows/Latest%20YouTube%20Videos/badge.svg)  
+![Update stats](https://github.com/suvozit/suvozit/workflows/Update%20stats/badge.svg)  
 ![Latest stack overflow activity](https://github.com/suvozit/suvozit/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
 ![Latest blog post workflow](https://github.com/suvozit/suvozit/workflows/Latest%20blog%20post%20workflow/badge.svg)
-
 
 [website]: https://www.shubhajitsaha.com
 [behance]: https://www.behance.net/suvozit
@@ -143,9 +142,3 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 [orkut]: https://www.orkut.com/Main#Profile.aspx?uid=3196709660811256557
 [picasa]: http://picasaweb.google.com/bitsits
 [vine]: https://vine.co/suvozit
-
-
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
