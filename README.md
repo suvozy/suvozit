@@ -27,7 +27,6 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 ### 🦉 Connect with me:
 
 [<img align="left" alt="www.shubhajitsaha.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][website]
-[<img align="left" alt="suvozit | ACM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />][acm]
 
 [<img align="left" alt="suvozit | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="suvozit | Flickr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flickr.svg" />][flickr]
@@ -46,6 +45,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 <br />
 <br />
 
+[<img align="left" alt="suvozit | ACM" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/acm.svg" />][acm]
 [<img align="left" alt="suvozit | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="suvozit | Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][bitbucket]
 [<img align="left" alt="suvozit | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev-dot-to]
@@ -71,6 +71,8 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<br />
+
 ---
 
 ### 📺 Latest YouTube Videos
@@ -81,6 +83,8 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 - [Watch me play PUBG MOBILE via Stream Labs!](https://www.youtube.com/watch?v=JpN-qZdNSF8)
 - [Watch me play PUBG MOBILE via Stream Labs!](https://www.youtube.com/watch?v=9CT1SyBuaHo)
 <!-- YOUTUBE:END -->
+
+<br />
 
 ---
 
@@ -94,6 +98,8 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 - [Po po, Fuck the Pandu taking turn from Shivaji Ground. Bohot hi...](https://suvozit.tumblr.com/post/613368152073666560)
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+
 ---
 
 ### 🙈 StackOverflow Activity
@@ -105,9 +111,13 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 - [Answer by suvozit for Add extra header information in codeigniter email](https://stackoverflow.com/questions/9062192/add-extra-header-information-in-codeigniter-email/30558524#30558524)
 <!-- STACKOVERFLOW:END -->
 
+<br />
+
 ---
 
 ![suvozit's Github Stats](https://github-readme-stats.vercel.app/api?username=suvozit&show_icons=true&hide_border=true&show_icons=true&theme=great-gatsby)
+
+<br />
 
 ![Latest YouTube Videos](https://github.com/suvozit/suvozit/workflows/Latest%20YouTube%20Videos/badge.svg)  
 ![Update stats](https://github.com/suvozit/suvozit/workflows/Update%20stats/badge.svg)  
