@@ -1,4 +1,9 @@
 ### Hi there 👋 I 'm [Shubhajit Saha][website]
+
+A serial Entrepreneur with a strong passion for self-improvement. I have strong Problem-Solving skills & bring energy, patience, positivity and cultural values to the team. I also stream games on my YouTube Channel.
+
+🙇🏼‍♂️ ⸱⸱⸱ 🤖
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/suvozit)
 [![Linkedin: suvozit](https://img.shields.io/badge/-Shubhajit%20Saha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suvozit/)](https://www.linkedin.com/in/suvozit/)
 
@@ -13,9 +18,7 @@
 - 😄 Pronouns: Bengali, Foodie, Snoozer
 - ⚡ Fun fact: I'm a Gemini ♊️
 
-A serial Entrepreneur with a strong passion for self-improvement. I have strong Problem-Solving skills & bring energy, patience, positivity and cultural values to the team. I also stream games on my YouTube Channel.
-
-🙇🏼‍♂️ ⸱⸱⸱ 🤖
+<br />
 
 ---
 
