@@ -104,6 +104,8 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 
 ![suvozit's Github Stats](https://github-readme-stats.vercel.app/api?username=suvozit&show_icons=true&hide_border=true&show_icons=true&theme=great-gatsby)
 
+![Latest YouTube Videos](https://github.com/suvozit/suvozit/workflows/Latest%20YouTube%20Videos/badge.svg)
+![Update stats](https://github.com/suvozit/suvozit/workflows/Update%20stats/badge.svg)
 ![Latest stack overflow activity](https://github.com/suvozit/suvozit/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
 ![Latest blog post workflow](https://github.com/suvozit/suvozit/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
