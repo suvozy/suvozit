@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ### 🙈 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
@@ -99,3 +101,8 @@ Here are some ideas to get you started:
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+---
+
+![Latest stack overflow activity](https://github.com/suvozit/suvozit/workflows/Latest%20stack%20overflow%20activity/badge.svg)  
+![Latest blog post workflow](https://github.com/suvozit/suvozit/workflows/Latest%20blog%20post%20workflow/badge.svg)
