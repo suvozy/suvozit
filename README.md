@@ -1,4 +1,4 @@
-![](IMG_2690.JPG)
+![](https://github.com/suvozit/suvozit/raw/master/IMG_2690.JPG)
 
 ### Hi there 👋 I 'm [Shubhajit Saha][website]
 
