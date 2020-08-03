@@ -35,8 +35,10 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozit | Gravatar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gravatar.svg" />][gravatar]
 [<img align="left" alt="suvozit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="suvozit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="suvozit | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="suvozit | Tumblr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][tumblr]
 [<img align="left" alt="suvozit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="suvozit | Unsplash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unsplash.svg" />][unsplash]
 [<img align="left" alt="suvozit | Vimeo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vimeo.svg" />][vimeo]
 [<img align="left" alt="suvozit | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vine.svg" />][vine]
 [<img align="left" alt="suvozit | Wordpress" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][wordpress]
@@ -46,6 +48,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 
 [<img align="left" alt="suvozit | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="suvozit | Bitbucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][bitbucket]
+[<img align="left" alt="suvozit | Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev-dot-to]
 [<img align="left" alt="suvozit | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogger]
 [<img align="left" alt="suvozit | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="suvozit | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -121,14 +124,17 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 [github]: https://github.com/suvozit
 [instagram]: https://instagram.com/suvozit
 [linkedin]: https://linkedin.com/in/suvozit
+[medium]: https://medium.com/@suvozit
 [tumblr]: https://suvozit.tumblr.com
 [twitter]: https://twitter.com/suvozit
+[unsplash]: https://unsplash.com/@suvozit
 [vimeo]: https://vimeo.com/suvozit
 [wordpress]: https://suvozit.wordpress.com
 [youtube]: https://youtube.com/suvozit
 
 [acm]: https://dl.acm.org/profile/87959207857
 [bitbucket]: https://bitbucket.org/suvozit
+[dev-dot-to]: http://dev.to/suvozit
 [github]: https://github.com/suvozit
 [spoj]: https://www.spoj.com/users/my_zit
 [stackoverflow]: https://stackoverflow.com/users/3466389/suvozit
