@@ -76,7 +76,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-Week: 27 July, 2020 - 03 August, 2020
+Week: 28 July, 2020 - 04 August, 2020
 
 HTML         1 hr 42 mins    ████████████░░░░░░░░░░░░░   49.00 % 
 YAML         1 hr 19 mins    █████████░░░░░░░░░░░░░░░░   38.02 % 
