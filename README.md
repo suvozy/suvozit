@@ -180,3 +180,13 @@ Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/p
 [orkut]: https://www.orkut.com/Main#Profile.aspx?uid=3196709660811256557
 [picasa]: http://picasaweb.google.com/bitsits
 [vine]: https://vine.co/suvozit
+
+<!--
+    Acknowledgement:
+        https://youtu.be/ECuqb5Tv9qI
+        https://github.com/codeSTACKr/codeSTACKr
+        https://github.com/gautamkrishnar/blog-post-workflow
+        https://github.com/khaosdoctor
+        https://github.com/anuraghazra/github-readme-stats
+        https://github.com/athul/waka-readme
+-->
