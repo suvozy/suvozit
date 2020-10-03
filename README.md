@@ -76,11 +76,9 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2020 - 01 October, 2020
+Week: 25 September, 2020 - 02 October, 2020
 
-Markdown   45 mins         ███████████████░░░░░░░░░░   59.76 % 
-YAML       19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
-HTML       11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+
 ```
 <!--END_SECTION:waka-->
 
