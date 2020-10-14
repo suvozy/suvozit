@@ -32,7 +32,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozit | Flickr" width="22px" src="https://simpleicons.org/icons/flickr.svg" />][flickr]
 [<img align="left" alt="suvozit | Foursquare" width="22px" src="https://simpleicons.org/icons/foursquare.svg" />][foursquare]
 <!-- https://github.com/simple-icons/simple-icons/issues/3414 -->
-[<img align="left" alt="suvozit | Giphy" width="22px" src="https://simpleicons.org/icons/genius.svg" />][giphy]
+[<img align="left" alt="suvozit | Giphy" width="22px" src="https://simpleicons.org/icons/giphy.svg" />][giphy]
 [<img align="left" alt="suvozit | Google" width="22px" src="https://simpleicons.org/icons/google.svg" />][google]
 [<img align="left" alt="suvozit | Gravatar" width="22px" src="https://simpleicons.org/icons/gravatar.svg" />][gravatar]
 [<img align="left" alt="suvozit | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
