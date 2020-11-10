@@ -76,9 +76,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2020 - 08 November, 2020
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
