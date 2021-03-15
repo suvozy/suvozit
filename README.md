@@ -64,7 +64,6 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 
 [<img align="left" alt="suvozit | YouTube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
 [<img align="left" alt="suvozit | YouTube Music" width="22px" src="https://simpleicons.org/icons/youtubemusic.svg" />][youtubemusic]
-[<img align="left" alt="suvozit | Mixer" width="22px" src="https://simpleicons.org/icons/mixer.svg" />][mixer]
 [<img align="left" alt="suvozit | Steam" width="22px" src="https://simpleicons.org/icons/steam.svg" />][steam]
 [<img align="left" alt="suvozit | Twitch" width="22px" src="https://simpleicons.org/icons/twitch.svg" />][twitch]
 [<img align="left" alt="suvozit | Xbox" width="22px" src="https://simpleicons.org/icons/xbox.svg" />][xbox]
