@@ -75,12 +75,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-Week: 17 April, 2021 - 24 April, 2021
-
-PHP             50 mins         ███████████████████▒░░░░░   77.30 % 
-SQL             10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Apache Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-HTML            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
