@@ -75,7 +75,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 ### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 ```text
-Week: 27 May, 2021 - 03 June, 2021
+Week: 28 May, 2021 - 04 June, 2021
 
 Python   6 hrs           ████████████████████████▓   98.78 % 
 Text     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
