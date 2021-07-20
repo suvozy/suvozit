@@ -96,12 +96,11 @@ No Activity tracked this Week
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My First Blog](https://dev.to/suvozit/my-first-blog-e2l)
 - [“hum kya chahte, azadi” #independenceday #fascist #india...](https://suvozit.tumblr.com/post/626502731168890880)
 - [A man in Eden #watercolor #watercolours #watercolorpainting...](https://suvozit.tumblr.com/post/626153014035693568)
 - [Howrah - 711 101 #shaymachastall #netajisubhasroad #howrah...](https://suvozit.tumblr.com/post/622349250048688128)
 - [Shubho Noboborsho sobike 🥳😷🦠 #noboborsho1426 #stayhome #staysafe...](https://suvozit.tumblr.com/post/615373228046778368)
-- [naturalcottage:
-Clouds come floating into my life, no longer to...](https://suvozit.tumblr.com/post/615157085565550592)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
