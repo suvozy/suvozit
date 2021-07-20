@@ -31,7 +31,6 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozit | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" alt="suvozit | Flickr" width="22px" src="https://simpleicons.org/icons/flickr.svg" />][flickr]
 [<img align="left" alt="suvozit | Foursquare" width="22px" src="https://simpleicons.org/icons/foursquare.svg" />][foursquare]
-<!-- https://github.com/simple-icons/simple-icons/issues/3414 -->
 [<img align="left" alt="suvozit | Giphy" width="22px" src="https://simpleicons.org/icons/giphy.svg" />][giphy]
 [<img align="left" alt="suvozit | Google" width="22px" src="https://simpleicons.org/icons/google.svg" />][google]
 [<img align="left" alt="suvozit | Gravatar" width="22px" src="https://simpleicons.org/icons/gravatar.svg" />][gravatar]
@@ -42,7 +41,6 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozit | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 [<img align="left" alt="suvozit | Unsplash" width="22px" src="https://simpleicons.org/icons/unsplash.svg" />][unsplash]
 [<img align="left" alt="suvozit | Vimeo" width="22px" src="https://simpleicons.org/icons/vimeo.svg" />][vimeo]
-[<img align="left" alt="suvozit | YouTube" width="22px" src="https://simpleicons.org/icons/vine.svg" />][vine]
 [<img align="left" alt="suvozit | Wordpress" width="22px" src="https://simpleicons.org/icons/wordpress.svg" />][wordpress]
 
 <br />
@@ -51,7 +49,7 @@ A serial Entrepreneur with a strong passion for self-improvement. I have strong 
 [<img align="left" alt="suvozit | ACM" width="22px" src="https://simpleicons.org/icons/acm.svg" />][acm]
 [<img align="left" alt="suvozit | Behance" width="22px" src="https://simpleicons.org/icons/behance.svg" />][behance]
 [<img align="left" alt="suvozit | Bitbucket" width="22px" src="https://simpleicons.org/icons/bitbucket.svg" />][bitbucket]
-[<img align="left" alt="suvozit | Dev.to" width="22px" src="https://simpleicons.org/icons/dev-dot-to.svg" />][dev-dot-to]
+[<img align="left" alt="suvozit | Dev.to" width="22px" src="https://simpleicons.org/icons/devdotto.svg" />][dev-dot-to]
 [<img align="left" alt="suvozit | Blogger" width="22px" src="https://simpleicons.org/icons/blogger.svg" />][blogger]
 [<img align="left" alt="suvozit | Dribbble" width="22px" src="https://simpleicons.org/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="suvozit | GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />][github]
